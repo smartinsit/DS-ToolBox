@@ -3,8 +3,8 @@ This repo contains my Coursera class work on the Data Scientist's Toolbox, which
 
 ## Reference Documents/Links
 * Introduction to Markdown:
-> * http://daringfireball.net/projects/markdown
-> * MD Button on Rstudio
-> * R markdown http://www.rstudio.com/ide/docs/authoring/using_markdown 
+ * http://daringfireball.net/projects/markdown
+ * MD Button on Rstudio
+ * R markdown http://www.rstudio.com/ide/docs/authoring/using_markdown 
 
 
